@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (winApi.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  program.c
+C:\Users\am321\source\repos\winApi\winApi\program.c(3,73): warning C4028: формальный параметр 3 отличается от объявления
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\am321\source\repos\winApi\x64\Debug\winApiTask.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

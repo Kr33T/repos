@@ -1,0 +1,11 @@
+C:\Users\am321\source\repos\CountTo\CountTo\bin\Debug\CountTo.exe.config
+C:\Users\am321\source\repos\CountTo\CountTo\bin\Debug\CountTo.exe
+C:\Users\am321\source\repos\CountTo\CountTo\bin\Debug\CountTo.pdb
+C:\Users\am321\source\repos\CountTo\CountTo\obj\Debug\CountTo.csproj.AssemblyReference.cache
+C:\Users\am321\source\repos\CountTo\CountTo\obj\Debug\CountTo.csproj.SuggestedBindingRedirects.cache
+C:\Users\am321\source\repos\CountTo\CountTo\obj\Debug\CountTo.Form1.resources
+C:\Users\am321\source\repos\CountTo\CountTo\obj\Debug\CountTo.Properties.Resources.resources
+C:\Users\am321\source\repos\CountTo\CountTo\obj\Debug\CountTo.csproj.GenerateResource.cache
+C:\Users\am321\source\repos\CountTo\CountTo\obj\Debug\CountTo.csproj.CoreCompileInputs.cache
+C:\Users\am321\source\repos\CountTo\CountTo\obj\Debug\CountTo.exe
+C:\Users\am321\source\repos\CountTo\CountTo\obj\Debug\CountTo.pdb

@@ -1,0 +1,7 @@
+﻿  program.c
+C:\Users\am321\source\repos\assemblerInserts\assemblerInserts\program.c(154,3): error C2415: недопустимый тип операнда
+C:\Users\am321\source\repos\assemblerInserts\assemblerInserts\program.c(155,3): error C2415: недопустимый тип операнда
+C:\Users\am321\source\repos\assemblerInserts\assemblerInserts\program.c(165,12): warning C4047: функция: "int" отличается по уровням косвенного обращения от "int *"
+C:\Users\am321\source\repos\assemblerInserts\assemblerInserts\program.c(165,10): warning C4024: replace: различные типы для формального и фактического параметров 1
+C:\Users\am321\source\repos\assemblerInserts\assemblerInserts\program.c(165,16): warning C4047: функция: "int" отличается по уровням косвенного обращения от "int *"
+C:\Users\am321\source\repos\assemblerInserts\assemblerInserts\program.c(165,14): warning C4024: replace: различные типы для формального и фактического параметров 2

@@ -1,0 +1,8 @@
+C:\Users\am321\source\repos\exTest\exTest\bin\Debug\exTest.exe.config
+C:\Users\am321\source\repos\exTest\exTest\bin\Debug\exTest.exe
+C:\Users\am321\source\repos\exTest\exTest\bin\Debug\exTest.pdb
+C:\Users\am321\source\repos\exTest\exTest\obj\Debug\exTest.csproj.AssemblyReference.cache
+C:\Users\am321\source\repos\exTest\exTest\obj\Debug\exTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\am321\source\repos\exTest\exTest\obj\Debug\exTest.csproj.CoreCompileInputs.cache
+C:\Users\am321\source\repos\exTest\exTest\obj\Debug\exTest.exe
+C:\Users\am321\source\repos\exTest\exTest\obj\Debug\exTest.pdb

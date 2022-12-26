@@ -1,0 +1,83 @@
+#include <stdio.h>
+#include <malloc.h>
+#include <math.h>
+
+#define A "первая строка "
+#define B "вторая строка"
+#define X 100
+#define S "4892"
+
+#define pow2(a) (a * a)
+
+#define getLength(x1, y1, x2, y2) sqrt(pow2((x2 - x1)) + pow2((y2 - y1)))
+
+int sum(int a, int b);
+int subtr(int a, int b);
+int mult(int a, int b);
+float div(float a, float b);
+
+int sum(int a, int b)
+{
+	return a + b;
+}
+
+int subtr(int a, int b)
+{
+	return a - b;
+}
+
+int mult(int a, int b)
+{
+	return a * b;
+}
+
+float div(float a, float b)
+{
+	return a / b;
+}
+
+char* concat(char* a, char* b)
+{
+	int r1 = 0, r2 = 0;
+	while (a[r1] != '\0')
+	{
+		r1++;
+	}
+	while (b[r2] != '\0')
+	{
+		r2++;
+	}
+	char* c = calloc(r1 + r2, sizeof(char));
+	for (int i = 0; i < r1; i++) {
+		c[i] = a[i];
+	}
+	for (int i = 0; i < r2; i++) {
+		c[r1 + i] = b[i];
+	}
+	c[r2 + r1] = '\0';
+	return c;
+}
+
+int ConvertToInt(char* str)
+{
+	int x = atoi(str);
+	return(x);
+}
+
+char* ConvertToString(int a)
+{
+	int r = 0;
+	int x = a;
+	if (a < 0)
+	{
+		r++;
+	}
+	while (a > 0) // Определение колличества элементов для строки
+	{
+		a = a / 10;
+		r++;
+	}
+	char* str = calloc(r, sizeof(char));
+	_itoa(x, str, 10);
+	return(str);
+}

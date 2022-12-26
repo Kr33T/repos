@@ -1,0 +1,13 @@
+C:\Users\am321\source\repos\NewDesTasks\NewDesTasks\bin\Debug\Database1.mdf
+C:\Users\am321\source\repos\NewDesTasks\NewDesTasks\bin\Debug\Database1_log.ldf
+C:\Users\am321\source\repos\NewDesTasks\NewDesTasks\bin\Debug\NewDesTasks.exe.config
+C:\Users\am321\source\repos\NewDesTasks\NewDesTasks\bin\Debug\NewDesTasks.exe
+C:\Users\am321\source\repos\NewDesTasks\NewDesTasks\bin\Debug\NewDesTasks.pdb
+C:\Users\am321\source\repos\NewDesTasks\NewDesTasks\obj\Debug\NewDesTasks.csproj.AssemblyReference.cache
+C:\Users\am321\source\repos\NewDesTasks\NewDesTasks\obj\Debug\NewDesTasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\am321\source\repos\NewDesTasks\NewDesTasks\obj\Debug\NewDesTasks.Form1.resources
+C:\Users\am321\source\repos\NewDesTasks\NewDesTasks\obj\Debug\NewDesTasks.Properties.Resources.resources
+C:\Users\am321\source\repos\NewDesTasks\NewDesTasks\obj\Debug\NewDesTasks.csproj.GenerateResource.cache
+C:\Users\am321\source\repos\NewDesTasks\NewDesTasks\obj\Debug\NewDesTasks.csproj.CoreCompileInputs.cache
+C:\Users\am321\source\repos\NewDesTasks\NewDesTasks\obj\Debug\NewDesTasks.exe
+C:\Users\am321\source\repos\NewDesTasks\NewDesTasks\obj\Debug\NewDesTasks.pdb

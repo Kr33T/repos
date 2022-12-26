@@ -1,0 +1,6 @@
+﻿  program.c
+C:\Users\am321\source\repos\ApiTask\ApiTask\program.c(3,73): warning C4028: формальный параметр 3 отличается от объявления
+C:\Users\am321\source\repos\ApiTask\ApiTask\program.c(5,41): warning C4133: функция: несовместимые типы - из "char [12]" в "LPCWSTR"
+C:\Users\am321\source\repos\ApiTask\ApiTask\program.c(5,53): warning C4133: функция: несовместимые типы - из "char [5]" в "LPCWSTR"
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\am321\source\repos\ApiTask\Debug\ApiTask.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

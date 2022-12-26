@@ -1,0 +1,4 @@
+﻿  program.c
+C:\Users\am321\source\repos\Project1\Project1\program.c(32,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "size_t"
+C:\Users\am321\source\repos\Project1\Project1\program.c(32,9): message : рекомендуется использовать "%zd" в строке форматирования
+  Project1.vcxproj -> C:\Users\am321\source\repos\Project1\x64\Debug\Project1.exe

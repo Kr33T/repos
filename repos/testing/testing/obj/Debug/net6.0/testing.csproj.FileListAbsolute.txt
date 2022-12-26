@@ -1,0 +1,15 @@
+C:\Users\am321\source\repos\testing\testing\bin\Debug\net6.0\testing.exe
+C:\Users\am321\source\repos\testing\testing\bin\Debug\net6.0\testing.deps.json
+C:\Users\am321\source\repos\testing\testing\bin\Debug\net6.0\testing.runtimeconfig.json
+C:\Users\am321\source\repos\testing\testing\bin\Debug\net6.0\testing.dll
+C:\Users\am321\source\repos\testing\testing\bin\Debug\net6.0\testing.pdb
+C:\Users\am321\source\repos\testing\testing\obj\Debug\net6.0\testing.csproj.AssemblyReference.cache
+C:\Users\am321\source\repos\testing\testing\obj\Debug\net6.0\testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\am321\source\repos\testing\testing\obj\Debug\net6.0\testing.AssemblyInfoInputs.cache
+C:\Users\am321\source\repos\testing\testing\obj\Debug\net6.0\testing.AssemblyInfo.cs
+C:\Users\am321\source\repos\testing\testing\obj\Debug\net6.0\testing.csproj.CoreCompileInputs.cache
+C:\Users\am321\source\repos\testing\testing\obj\Debug\net6.0\testing.dll
+C:\Users\am321\source\repos\testing\testing\obj\Debug\net6.0\refint\testing.dll
+C:\Users\am321\source\repos\testing\testing\obj\Debug\net6.0\testing.pdb
+C:\Users\am321\source\repos\testing\testing\obj\Debug\net6.0\testing.genruntimeconfig.cache
+C:\Users\am321\source\repos\testing\testing\obj\Debug\net6.0\ref\testing.dll

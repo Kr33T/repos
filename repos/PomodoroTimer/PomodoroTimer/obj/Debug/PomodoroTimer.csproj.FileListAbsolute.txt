@@ -1,0 +1,11 @@
+C:\Users\am321\source\repos\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.exe.config
+C:\Users\am321\source\repos\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.exe
+C:\Users\am321\source\repos\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.pdb
+C:\Users\am321\source\repos\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.csproj.AssemblyReference.cache
+C:\Users\am321\source\repos\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.csproj.SuggestedBindingRedirects.cache
+C:\Users\am321\source\repos\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.Form1.resources
+C:\Users\am321\source\repos\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.Properties.Resources.resources
+C:\Users\am321\source\repos\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.csproj.GenerateResource.cache
+C:\Users\am321\source\repos\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.csproj.CoreCompileInputs.cache
+C:\Users\am321\source\repos\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.exe
+C:\Users\am321\source\repos\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.pdb

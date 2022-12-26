@@ -1,0 +1,15 @@
+C:\Users\am321\source\repos\Monte-CarloMethod\Monte-CarloMethod\bin\Debug\net6.0\Monte-CarloMethod.exe
+C:\Users\am321\source\repos\Monte-CarloMethod\Monte-CarloMethod\bin\Debug\net6.0\Monte-CarloMethod.deps.json
+C:\Users\am321\source\repos\Monte-CarloMethod\Monte-CarloMethod\bin\Debug\net6.0\Monte-CarloMethod.runtimeconfig.json
+C:\Users\am321\source\repos\Monte-CarloMethod\Monte-CarloMethod\bin\Debug\net6.0\Monte-CarloMethod.dll
+C:\Users\am321\source\repos\Monte-CarloMethod\Monte-CarloMethod\bin\Debug\net6.0\Monte-CarloMethod.pdb
+C:\Users\am321\source\repos\Monte-CarloMethod\Monte-CarloMethod\obj\Debug\net6.0\Monte-CarloMethod.csproj.AssemblyReference.cache
+C:\Users\am321\source\repos\Monte-CarloMethod\Monte-CarloMethod\obj\Debug\net6.0\Monte-CarloMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\am321\source\repos\Monte-CarloMethod\Monte-CarloMethod\obj\Debug\net6.0\Monte-CarloMethod.AssemblyInfoInputs.cache
+C:\Users\am321\source\repos\Monte-CarloMethod\Monte-CarloMethod\obj\Debug\net6.0\Monte-CarloMethod.AssemblyInfo.cs
+C:\Users\am321\source\repos\Monte-CarloMethod\Monte-CarloMethod\obj\Debug\net6.0\Monte-CarloMethod.csproj.CoreCompileInputs.cache
+C:\Users\am321\source\repos\Monte-CarloMethod\Monte-CarloMethod\obj\Debug\net6.0\Monte-CarloMethod.dll
+C:\Users\am321\source\repos\Monte-CarloMethod\Monte-CarloMethod\obj\Debug\net6.0\refint\Monte-CarloMethod.dll
+C:\Users\am321\source\repos\Monte-CarloMethod\Monte-CarloMethod\obj\Debug\net6.0\Monte-CarloMethod.pdb
+C:\Users\am321\source\repos\Monte-CarloMethod\Monte-CarloMethod\obj\Debug\net6.0\Monte-CarloMethod.genruntimeconfig.cache
+C:\Users\am321\source\repos\Monte-CarloMethod\Monte-CarloMethod\obj\Debug\net6.0\ref\Monte-CarloMethod.dll

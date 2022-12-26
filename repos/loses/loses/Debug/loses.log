@@ -1,0 +1,10 @@
+﻿  program.c
+C:\Users\am321\source\repos\loses\loses\program.c(20,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\am321\source\repos\loses\loses\program.c(71,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\am321\source\repos\loses\loses\program.c(79,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\am321\source\repos\loses\loses\program.c(85,13): warning C4133: =: несовместимые типы - из "int *" в "LOS *"
+C:\Users\am321\source\repos\loses\loses\program.c(83,1): warning C4133: инициализация: несовместимые типы - из "MyStruct *" в "int *"
+C:\Users\am321\source\repos\loses\loses\program.c(179,20): warning C4133: =: несовместимые типы - из "int *" в "MyStruct *"
+C:\Users\am321\source\repos\loses\loses\program.c(175,1): warning C4133: инициализация: несовместимые типы - из "MyStruct *" в "int *"
+C:\Users\am321\source\repos\loses\loses\program.c(192,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  loses.vcxproj -> C:\Users\am321\source\repos\loses\Debug\loses.exe

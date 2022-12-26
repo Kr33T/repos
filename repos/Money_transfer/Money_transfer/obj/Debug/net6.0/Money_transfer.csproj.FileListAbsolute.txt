@@ -1,0 +1,30 @@
+C:\Users\am321\source\repos\Money_transfer\Money_transfer\bin\Debug\net6.0\Money_transfer.exe
+C:\Users\am321\source\repos\Money_transfer\Money_transfer\bin\Debug\net6.0\Money_transfer.deps.json
+C:\Users\am321\source\repos\Money_transfer\Money_transfer\bin\Debug\net6.0\Money_transfer.runtimeconfig.json
+C:\Users\am321\source\repos\Money_transfer\Money_transfer\bin\Debug\net6.0\Money_transfer.dll
+C:\Users\am321\source\repos\Money_transfer\Money_transfer\bin\Debug\net6.0\Money_transfer.pdb
+C:\Users\am321\source\repos\Money_transfer\Money_transfer\obj\Debug\net6.0\Money_transfer.csproj.AssemblyReference.cache
+C:\Users\am321\source\repos\Money_transfer\Money_transfer\obj\Debug\net6.0\Money_transfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\am321\source\repos\Money_transfer\Money_transfer\obj\Debug\net6.0\Money_transfer.AssemblyInfoInputs.cache
+C:\Users\am321\source\repos\Money_transfer\Money_transfer\obj\Debug\net6.0\Money_transfer.AssemblyInfo.cs
+C:\Users\am321\source\repos\Money_transfer\Money_transfer\obj\Debug\net6.0\Money_transfer.csproj.CoreCompileInputs.cache
+C:\Users\am321\source\repos\Money_transfer\Money_transfer\obj\Debug\net6.0\Money_transfer.dll
+C:\Users\am321\source\repos\Money_transfer\Money_transfer\obj\Debug\net6.0\refint\Money_transfer.dll
+C:\Users\am321\source\repos\Money_transfer\Money_transfer\obj\Debug\net6.0\Money_transfer.pdb
+C:\Users\am321\source\repos\Money_transfer\Money_transfer\obj\Debug\net6.0\Money_transfer.genruntimeconfig.cache
+C:\Users\am321\source\repos\Money_transfer\Money_transfer\obj\Debug\net6.0\ref\Money_transfer.dll
+C:\Users\am321\source\repos\Money_transfer — копия\Money_transfer\bin\Debug\net6.0\Money_transfer.exe
+C:\Users\am321\source\repos\Money_transfer — копия\Money_transfer\bin\Debug\net6.0\Money_transfer.deps.json
+C:\Users\am321\source\repos\Money_transfer — копия\Money_transfer\bin\Debug\net6.0\Money_transfer.runtimeconfig.json
+C:\Users\am321\source\repos\Money_transfer — копия\Money_transfer\bin\Debug\net6.0\Money_transfer.dll
+C:\Users\am321\source\repos\Money_transfer — копия\Money_transfer\bin\Debug\net6.0\Money_transfer.pdb
+C:\Users\am321\source\repos\Money_transfer — копия\Money_transfer\obj\Debug\net6.0\Money_transfer.csproj.AssemblyReference.cache
+C:\Users\am321\source\repos\Money_transfer — копия\Money_transfer\obj\Debug\net6.0\Money_transfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\am321\source\repos\Money_transfer — копия\Money_transfer\obj\Debug\net6.0\Money_transfer.AssemblyInfoInputs.cache
+C:\Users\am321\source\repos\Money_transfer — копия\Money_transfer\obj\Debug\net6.0\Money_transfer.AssemblyInfo.cs
+C:\Users\am321\source\repos\Money_transfer — копия\Money_transfer\obj\Debug\net6.0\Money_transfer.csproj.CoreCompileInputs.cache
+C:\Users\am321\source\repos\Money_transfer — копия\Money_transfer\obj\Debug\net6.0\Money_transfer.dll
+C:\Users\am321\source\repos\Money_transfer — копия\Money_transfer\obj\Debug\net6.0\refint\Money_transfer.dll
+C:\Users\am321\source\repos\Money_transfer — копия\Money_transfer\obj\Debug\net6.0\Money_transfer.pdb
+C:\Users\am321\source\repos\Money_transfer — копия\Money_transfer\obj\Debug\net6.0\Money_transfer.genruntimeconfig.cache
+C:\Users\am321\source\repos\Money_transfer — копия\Money_transfer\obj\Debug\net6.0\ref\Money_transfer.dll

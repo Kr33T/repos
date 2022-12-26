@@ -1,0 +1,5 @@
+﻿  program.c
+C:\Users\am321\source\repos\loses\loses\program.c(85,13): warning C4133: =: несовместимые типы - из "int *" в "LOS *"
+C:\Users\am321\source\repos\loses\loses\program.c(83,1): warning C4133: инициализация: несовместимые типы - из "MyStruct *" в "int *"
+C:\Users\am321\source\repos\loses\loses\program.c(95,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  loses.vcxproj -> C:\Users\am321\source\repos\loses\x64\Debug\loses.exe

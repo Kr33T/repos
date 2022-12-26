@@ -1,0 +1,15 @@
+C:\Users\am321\source\repos\exerciseNum14\exerciseNum14\bin\Debug\net6.0\exerciseNum14.exe
+C:\Users\am321\source\repos\exerciseNum14\exerciseNum14\bin\Debug\net6.0\exerciseNum14.deps.json
+C:\Users\am321\source\repos\exerciseNum14\exerciseNum14\bin\Debug\net6.0\exerciseNum14.runtimeconfig.json
+C:\Users\am321\source\repos\exerciseNum14\exerciseNum14\bin\Debug\net6.0\exerciseNum14.dll
+C:\Users\am321\source\repos\exerciseNum14\exerciseNum14\bin\Debug\net6.0\exerciseNum14.pdb
+C:\Users\am321\source\repos\exerciseNum14\exerciseNum14\obj\Debug\net6.0\exerciseNum14.csproj.AssemblyReference.cache
+C:\Users\am321\source\repos\exerciseNum14\exerciseNum14\obj\Debug\net6.0\exerciseNum14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\am321\source\repos\exerciseNum14\exerciseNum14\obj\Debug\net6.0\exerciseNum14.AssemblyInfoInputs.cache
+C:\Users\am321\source\repos\exerciseNum14\exerciseNum14\obj\Debug\net6.0\exerciseNum14.AssemblyInfo.cs
+C:\Users\am321\source\repos\exerciseNum14\exerciseNum14\obj\Debug\net6.0\exerciseNum14.csproj.CoreCompileInputs.cache
+C:\Users\am321\source\repos\exerciseNum14\exerciseNum14\obj\Debug\net6.0\exerciseNum14.dll
+C:\Users\am321\source\repos\exerciseNum14\exerciseNum14\obj\Debug\net6.0\refint\exerciseNum14.dll
+C:\Users\am321\source\repos\exerciseNum14\exerciseNum14\obj\Debug\net6.0\exerciseNum14.pdb
+C:\Users\am321\source\repos\exerciseNum14\exerciseNum14\obj\Debug\net6.0\exerciseNum14.genruntimeconfig.cache
+C:\Users\am321\source\repos\exerciseNum14\exerciseNum14\obj\Debug\net6.0\ref\exerciseNum14.dll

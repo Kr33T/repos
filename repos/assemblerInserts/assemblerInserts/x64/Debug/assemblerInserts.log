@@ -1,0 +1,12 @@
+﻿  program.c
+C:\Users\am321\source\repos\assemblerInserts\assemblerInserts\program.c(18,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\am321\source\repos\assemblerInserts\assemblerInserts\program.c(20,7): error C2065: mov: необъявленный идентификатор
+C:\Users\am321\source\repos\assemblerInserts\assemblerInserts\program.c(20,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\am321\source\repos\assemblerInserts\assemblerInserts\program.c(20,10): error C2065: eax: необъявленный идентификатор
+C:\Users\am321\source\repos\assemblerInserts\assemblerInserts\program.c(21,7): error C2065: add: необъявленный идентификатор
+C:\Users\am321\source\repos\assemblerInserts\assemblerInserts\program.c(21,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\am321\source\repos\assemblerInserts\assemblerInserts\program.c(21,10): error C2065: eax: необъявленный идентификатор
+C:\Users\am321\source\repos\assemblerInserts\assemblerInserts\program.c(22,7): error C2065: mov: необъявленный идентификатор
+C:\Users\am321\source\repos\assemblerInserts\assemblerInserts\program.c(22,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "c"
+C:\Users\am321\source\repos\assemblerInserts\assemblerInserts\program.c(22,13): error C2065: eax: необъявленный идентификатор
+C:\Users\am321\source\repos\assemblerInserts\assemblerInserts\program.c(39,11): warning C4244: return: преобразование "int" в "float", возможна потеря данных

@@ -1,0 +1,2 @@
+C:\Users\am321\source\repos\WPF_Practice\WPF_Practice\obj\Debug\net6.0-windows\WPF_Practice.csproj.AssemblyReference.cache
+C:\Users\am321\source\repos\WPF_Practice\WPF_Practice\obj\Debug\net6.0-windows\WPF_Practice_MarkupCompile.cache

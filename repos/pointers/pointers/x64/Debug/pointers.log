@@ -1,0 +1,6 @@
+﻿  pointers.cpp
+C:\Users\am321\source\repos\pointers\pointers\pointers.cpp(6,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "unsigned __int64"
+C:\Users\am321\source\repos\pointers\pointers\pointers.cpp(6,12): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\am321\source\repos\pointers\pointers\pointers.cpp(6,12): message : рекомендуется использовать "%Id" в строке форматирования
+C:\Users\am321\source\repos\pointers\pointers\pointers.cpp(6,12): message : рекомендуется использовать "%I64d" в строке форматирования
+  pointers.vcxproj -> C:\Users\am321\source\repos\pointers\x64\Debug\pointers.exe
